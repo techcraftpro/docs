@@ -3,8 +3,8 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://brettjrea.github.io',
-  	base: 'astro',
+	site: 'https://techcraftpro.github.io',
+  	base: 'docs',
 	integrations: [
 		starlight({
 			title: 'My Docs',
